@@ -1,1 +1,1 @@
-# Python_projects
+Мои проекты, написанные на Python.
